@@ -23,3 +23,7 @@
 
 - I'm currently working on my first iOS app for release on the App Store! 
 - Hint: It's music related, and will include Spotify Widget (and an Apple Music Widget too!)
+
+### How do you contact me?
+
+- If you'd like to contact me, message me on [Twitter](https://twitter.com/ifisq) or [send me an email](mailto:aryan@nambiar.dev).
