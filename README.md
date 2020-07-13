@@ -18,6 +18,7 @@
 - Auroris Tools was a desktop application I built using Node.js and Electron. It included a browser spoofer, proxy tester, and Shopify account generator.
 - Auroris SMS is a Discord bot I built to connect sneaker release information providers to their customers. It enables sending mass SMS messages via Discord, and was built using Python with MongoDB for holding customer information with the Twilio API used to send messages.
 - [Spotify Widget](https://github.com/ifisq/spotify-widget) is a widget I made 2 days after iOS 14 was announced. This utilized the brand-new WidgetKit Framework to display your Spotify Now Playing song on your home screen, no matter where it's playing from!
+- Coalesce Trivia was a service that utilized crowdsourcing to display and try to guess the correct answer for questions on the popular gameshow HQ Trivia. Coalesce got an average of 11 out of 12 questions right every single game!
 
 ### What am I working on?
 
