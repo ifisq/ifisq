@@ -8,7 +8,7 @@
 ### About Me
 - I'm a 17 year old student and developer from Illinois.
 - I won Apple's [2020 WWDC Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/). Click [here]() to take a look at my submission!
-- I've been programming for almost 2 years now, and I've done projects with Python, Java, Node.JS, Swift, and Objective-C.
+- I've done projects with Python, Java, Node.JS, Swift, and Objective-C.
 - My projects have been used by over 50,000 people (and counting!)
 
 ### Projects
