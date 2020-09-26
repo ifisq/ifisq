@@ -6,13 +6,13 @@
 </p>
 
 ### About Me
-- I'm a 17 year old student and developer from Illinois.
+- I'm a 17 year old student and developer from Illinois in the United States.
 - I won Apple's [2020 WWDC Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/). Click [here](https://github.com/ifisq/Build-A-Piano) to take a look at my submission!
 - I've done projects with Python, Java, Node.JS, Swift, and Objective-C.
-- My projects have been used by over 70,000 people (and counting!)
+- My projects have been used by over 1.7 million people (and counting!)
 
 ### Projects
-- [TuneTrack](https://tunetrack.app) is an iOS application I built to help you track your music statistics on platforms like Spotify, Apple Music, and Last.fm. 
+- [TuneTrack](https://tunetrack.app) is an iOS application I built to help you track your music statistics on platforms like Spotify, Apple Music, and Last.fm. It went viral in September 2020 and was the #1 music application on the App Store in over 40 countries, above apps like Spotify. It was even the #1 application on the entire App Store (above apps like TikTok, Facebook, and YouTube) in countries like the UK and Mexico, and peaked at #6 in the United States.
 - [Wonderbar](https://github.com/ifisq/Wonderbar), an iOS tweak that enables customization of the status bar.
 - [Auroris Development](https://auroris.dev) is a business I started geared toward making tools for the sneaker community. 
 - [Build A Piano](https://github.com/ifisq/Build-A-Piano) was my winning submission for the Apple Swift Student Challenge.
@@ -23,7 +23,7 @@
 
 ### What am I working on?
 
-- I'm currently working on TuneTrack, my first iOS app! Specifically, I'm working to port Spotify Widget over to TuneTrack so that more people can use it.
+- I'm currently working on TuneTrack and adding additional features to the application.
 
 ### How do you contact me?
 
