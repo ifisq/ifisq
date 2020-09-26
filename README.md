@@ -12,7 +12,7 @@
 - My projects have been used by over 1.7 million people (and counting!)
 
 ### Projects
-- [TuneTrack](https://tunetrack.app) is an iOS application I built to help you track your music statistics on platforms like Spotify, Apple Music, and Last.fm. It went viral in September 2020 and was the #1 music application on the App Store in over 40 countries, above apps like Spotify. It was even the #1 application on the entire App Store (above apps like TikTok, Facebook, and YouTube) in countries like the UK and Mexico, and peaked at #6 in the United States.
+- [TuneTrack](https://tunetrack.app) is an iOS application I built to help you track your music statistics on platforms like Spotify, Apple Music, and Last.fm. It went viral in September 2020 and was the #1 music application on the App Store in over 40 countries, above apps like Spotify. It was also the #1 application on the entire App Store (above apps like TikTok, Facebook, and YouTube) in some countries like the UK and Mexico, and peaked at #6 in the United States.
 - [Wonderbar](https://github.com/ifisq/Wonderbar), an iOS tweak that enables customization of the status bar.
 - [Auroris Development](https://auroris.dev) is a business I started geared toward making tools for the sneaker community. 
 - [Build A Piano](https://github.com/ifisq/Build-A-Piano) was my winning submission for the Apple Swift Student Challenge.
