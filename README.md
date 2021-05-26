@@ -6,7 +6,7 @@
 </p>
 
 ### About Me
-- I'm a 17 year old student and developer from Illinois in the United States.
+- I'm an 18 year old student and developer from Illinois in the United States.
 - I won Apple's [2020 WWDC Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/). Click [here](https://github.com/ifisq/Build-A-Piano) to take a look at my submission!
 - I've done projects with Python, Java, Node.JS, Swift, and Objective-C.
 - My projects have been used by over 2 million people (and counting!)
