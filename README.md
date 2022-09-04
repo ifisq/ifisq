@@ -6,7 +6,7 @@
 </p>
 
 ### About Me
-- I'm a 19 year old student and developer from Illinois in the United States, and I'm currently attending the University of Illinois at Urbana-Champaign.
+- I'm a student and developer from Illinois in the United States, and I'm currently attending the University of Illinois at Urbana-Champaign.
 - I won Apple's [2020 WWDC Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/). Click [here](https://github.com/ifisq/Build-A-Piano) to take a look at my submission!
 - I've done projects with Python, Java, Node.JS, Swift, and Objective-C.
 - My projects have been used by over 2 million people (and counting!)
@@ -23,7 +23,7 @@
 
 ### What am I working on?
 
-- I'm currently working as an iOS Engineer at [RIFF](https://twitter.com/justRIFF). Keep an eye out for what we're building!
+- College!
 
 ### How do you contact me?
 
